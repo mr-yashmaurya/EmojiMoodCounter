@@ -13,3 +13,6 @@ Create a counter app — but make it creative
 
 Emoji Mood Counter
 Based on the counter value, show different emojis (e.g., 😐, 🙂, 😄, 🤩) using Text and update them with setState().
+
+#Include screenshots 
+https://github.com/mr-yashmaurya/EmojiMoodCounter/blob/96e3417595e9233227cc6499d6e7a9b1174819f5/emoji_mood_counter.png
